@@ -22,6 +22,12 @@ end
 
 group :development, :test do
   gem 'rspec-rails', '~> 2.0'
+  gem 'faker'
+  gem 'simplecov'
+  gem 'launchy'
+  gem 'selenium-webdriver'
+  gem 'factory_girl'
+  gem 'capybara'
 end
 
 gem 'jquery-rails'

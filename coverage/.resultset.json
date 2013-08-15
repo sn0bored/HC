@@ -1,0 +1,32 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/dwillems/Desktop/HC/HealthCarrot/app/models/user.rb": [
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/dwillems/Desktop/HC/HealthCarrot/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/dwillems/Desktop/HC/HealthCarrot/app/helpers/application_helper.rb": [
+        1,
+        null
+      ]
+    },
+    "timestamp": 1376539898
+  }
+}
